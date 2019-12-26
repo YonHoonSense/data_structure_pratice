@@ -14,7 +14,7 @@ public class Multi{
             for(int j=1; j<=9; j++){
                 System.out.printf("%3d", i*j);   //3자리 맞춤
             }
-            System.out.println();
+            System.out.println(); //주석 추가
         }
     }
 }
