@@ -39,6 +39,8 @@ class EqualArray {
             b[i] = stdIn.nextInt();
         }
 
+        stdIn.close();
+
         System.out.println("배열 a와 b는 서로" + (Equals(a, b) ? "같은 배열입니다." : "다른 배열입니다."));
 
     }
