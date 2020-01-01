@@ -20,7 +20,7 @@ class MaxOfAllRand {
         Random rand = new Random();
 
         System.out.println("최댓값 구하기");
-        int num = 1 + rand.nextInt(9);
+        int num = 1 + rand.nextInt(9); //rand의 바운드를 10으로만 할 경우 0이 출력될 수 있기 때문에 1을 더해준다.
         System.out.println("숫자의 갯수 : " +num);
 
         int[] Maxarray = new int[num];
