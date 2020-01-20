@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntStackTest",
+            "request": "launch",
+            "mainClass": "Algo_practice.IntStackTest",
+            "projectName": "Algo_practice_18311b6c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Multi",
+            "request": "launch",
+            "mainClass": "Algo_practice.Multi",
+            "projectName": "Algo_practice_18311b6c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Min3",
+            "request": "launch",
+            "mainClass": "Algo_practice.Min3",
+            "projectName": "Algo_practice_18311b6c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Max4",
+            "request": "launch",
+            "mainClass": "Algo_practice.Max4",
+            "projectName": "Algo_practice_18311b6c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Max3m",
+            "request": "launch",
+            "mainClass": "Algo_practice.Max3m",
+            "projectName": "Algo_practice_18311b6c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Max3",
+            "request": "launch",
+            "mainClass": "Algo_practice.Max3",
+            "projectName": "Algo_practice_18311b6c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Max3",
+            "request": "launch",
+            "mainClass": "Max3",
+            "projectName": "Algo_practice_18311b6c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Algo_practice_18311b6c"
+        }
+    ]
+}
